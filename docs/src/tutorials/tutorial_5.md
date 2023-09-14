@@ -43,7 +43,7 @@ wget https://raw.githubusercontent.com/liampshaw/pangraph-tutorials/main/scripts
 First, we run a script to generate random colours for the blocks.
 
 ```bash
-python prepare-pangraph-gfa.py UVA01_plasmids.pangraph.gfa --all
+python prepare-pangraph-gfa.py UVA01_plasmids_pangraph.gfa --all
 ```
 
 This produces three files:
